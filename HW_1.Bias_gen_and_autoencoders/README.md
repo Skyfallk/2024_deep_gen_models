@@ -16,7 +16,7 @@
 
 Данные - вырезанные изображения лунок в которые льют металл.
 ![Пример разливочного стола](imgs/example.jpg)
-[Ссыла на даасет](https://drive.google.com/file/d/1DHuQ3DBsgab6NtZIZfAKUHS2rW3-vmtb/view?usp=sharing)
+[Ссылка на даасет](https://drive.google.com/file/d/1DHuQ3DBsgab6NtZIZfAKUHS2rW3-vmtb/view?usp=sharing)
 
 ```
 dataset
