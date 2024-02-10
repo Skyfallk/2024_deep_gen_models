@@ -11,6 +11,7 @@
 - EgorovM
 - denkogit
 - Skyfallk
+
 Для того чтобы отправить ДЗ на провекрку поставте в [таблице](https://docs.google.com/spreadsheets/d/1U7xckpo6i3Z0PNCimt8Vhr6vJ_SnA-z385FQaZ_9IKg/edit#gid=0) на против своей фамилии в соответствующей колонке '+'. После проверки вместо него появятся баллы.
 
 | ДЗ | Где лежит | Кол-во баллов |deadline|
